@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/LegoRules/static/css/main.4626fa3c.chunk.css",
+    "main.js": "/LegoRules/static/js/main.550ef2f8.chunk.js",
+    "main.js.map": "/LegoRules/static/js/main.550ef2f8.chunk.js.map",
+    "runtime-main.js": "/LegoRules/static/js/runtime-main.bb7b4d7f.js",
+    "runtime-main.js.map": "/LegoRules/static/js/runtime-main.bb7b4d7f.js.map",
+    "static/js/2.80deb981.chunk.js": "/LegoRules/static/js/2.80deb981.chunk.js",
+    "static/js/2.80deb981.chunk.js.map": "/LegoRules/static/js/2.80deb981.chunk.js.map",
+    "index.html": "/LegoRules/index.html",
+    "precache-manifest.3eee2dd2c416715e3f633603c0ceb024.js": "/LegoRules/precache-manifest.3eee2dd2c416715e3f633603c0ceb024.js",
+    "service-worker.js": "/LegoRules/service-worker.js",
+    "static/css/main.4626fa3c.chunk.css.map": "/LegoRules/static/css/main.4626fa3c.chunk.css.map",
+    "static/js/2.80deb981.chunk.js.LICENSE.txt": "/LegoRules/static/js/2.80deb981.chunk.js.LICENSE.txt",
+    "static/media/21044.jpg": "/LegoRules/static/media/21044.4a5406c3.jpg",
+    "static/media/40407.jpeg": "/LegoRules/static/media/40407.f0f50f84.jpeg",
+    "static/media/75236.jpeg": "/LegoRules/static/media/75236.a51d476a.jpeg",
+    "static/media/75257.jpg": "/LegoRules/static/media/75257.eacbb543.jpg",
+    "static/media/76159.jpeg": "/LegoRules/static/media/76159.486e0440.jpeg",
+    "static/media/7956.jpg": "/LegoRules/static/media/7956.0028367c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb7b4d7f.js",
+    "static/js/2.80deb981.chunk.js",
+    "static/css/main.4626fa3c.chunk.css",
+    "static/js/main.550ef2f8.chunk.js"
+  ]
+}
