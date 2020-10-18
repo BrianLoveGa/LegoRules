@@ -41,8 +41,14 @@ function App() {
       </ul>
       <h2>Wish-list:</h2>
       <ul>
-        {" "}
-        Item number opens link to lego store page
+        <li class="big">
+          Anything Space NASA or fun,  Pirates , Castles , Lord of the Rings , Technic cars or
+          just generic bricks and plates sets or Batman / any super heros.
+        </li>
+        <li class="big">Can not go wrong with lego!</li>
+        <li>&nbsp;</li>
+        <li> ** Item number opens link to lego store page **</li>
+        <li>&nbsp;</li>
         <li>
           {" "}
           Star Wars Mos Eisley Cantina{" "}
@@ -51,7 +57,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            # 75290
+            # 75290 **
           </a>{" "}
           <li>
             <img
@@ -69,7 +75,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            # 75253
+            # 75253 **
           </a>{" "}
         </li>
         <li>
@@ -88,7 +94,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            # 75902
+            # 75902 **
           </a>{" "}
         </li>
         <li>
@@ -107,7 +113,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            # 75810
+            # 75810 **
           </a>{" "}
         </li>
         <li>
@@ -117,9 +123,8 @@ function App() {
             src="https://img.bricklink.com/ItemImage/SN/0/75810-1.png"
           />{" "}
         </li>
-        <li>Anything Space (NASA) or Pirates or Castles or Lord of the Rings or just generic bricks and plates sets or Batman / any super heros.</li>
-        <li>Can not go wrong with lego!</li>
       </ul>
+      <h2>Other cool things: Any Star Trek / Space / Paris decorations or knick knacks.</h2>
     </div>
   );
 }

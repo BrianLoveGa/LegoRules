@@ -1,6 +1,6 @@
 * {
-margin:1%;
-background-color: rgb(108, 194, 243);
+  margin: 1%;
+  background-color: rgb(108, 194, 243);
 }
 
 .pic {
@@ -8,6 +8,10 @@ background-color: rgb(108, 194, 243);
   width: auto;
 }
 
-ul{
+ul {
   list-style-type: none;
+}
+
+.big {
+  font-size: 2em;
 }
