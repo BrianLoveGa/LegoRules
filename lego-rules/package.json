@@ -1,5 +1,5 @@
 {
-  "homepage":"http://BrianLoveGa.github.io/LegoRules/",
+  "homepage": "http://BrianLoveGa.github.io/LegoRules/",
   "name": "lego-rules",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-medium-image-zoom": "^4.3.1",
     "react-scripts": "3.4.3"
   },
   "scripts": {

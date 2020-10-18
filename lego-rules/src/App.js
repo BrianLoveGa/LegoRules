@@ -1,5 +1,8 @@
 import React from "react";
 import "./App.css";
+import Zoom from "react-medium-image-zoom";
+import "react-medium-image-zoom/dist/styles.css";
+
 import mf from "./pics/75257.jpg";
 import p from "./pics/21044.jpg";
 import DSK from "./pics/75236.jpeg";
@@ -15,35 +18,48 @@ function App() {
       <ul>
         <li>Millennium Falcon # 75257 </li>
         <li>
-          <img class="pic" src={mf} alt="Millennium Falcon Lego" />
+          <Zoom>
+            <img class="pic" src={mf} alt="Millennium Falcon Lego" />
+          </Zoom>
         </li>
         <li>Paris # 21044</li>
         <li>
-          <img class="pic" src={p} alt="Paris France Lego" />
+          <Zoom>
+            <img class="pic" src={p} alt="Paris France Lego" />
+          </Zoom>
         </li>
         <li>Duel on Starkiller # 75236</li>
         <li>
-          <img class="pic" src={DSK} alt="Duel on Starkiller base Lego" />
+          <Zoom>
+            <img class="pic" src={DSK} alt="Duel on Starkiller base Lego" />
+          </Zoom>
         </li>
         <li>Joker's Trike # 76159</li>
         <li>
-          <img class="pic" src={JT} alt="Joker's Trike Lego" />
+          <Zoom>
+            <img class="pic" src={JT} alt="Joker's Trike Lego" />
+          </Zoom>
         </li>
         <li>D S II Battle # 40407</li>
         <li>
-          <img class="pic" src={DSii} alt="Death Star 2 battle Lego" />
+          <Zoom>
+            <img class="pic" src={DSii} alt="Death Star 2 battle Lego" />
+          </Zoom>
         </li>
         <li>Ewok Attack # 7956 </li>
         <li>
-          <img class="pic" src={ewok} alt="Ewok attack Lego" />
+          <Zoom>
+            <img class="pic" src={ewok} alt="Ewok attack Lego" />
+          </Zoom>
         </li>
         <li></li>
       </ul>
       <h2>Wish-list:</h2>
       <ul>
         <li class="big">
-          Anything Space NASA or fun,  Pirates , Castles , Lord of the Rings , Technic cars or
-          just generic bricks and plates sets or Batman / any super heros.
+          Anything Space NASA or fun, Pirates , Castles , Lord of the Rings ,
+          Technic cars or just generic bricks and plates sets or Batman / any
+          super heros.
         </li>
         <li class="big">Can not go wrong with lego!</li>
         <li>&nbsp;</li>
@@ -60,11 +76,13 @@ function App() {
             # 75290 **
           </a>{" "}
           <li>
-            <img
-              class="pic"
-              alt="lego set"
-              src="https://img.bricklink.com/ItemImage/SN/0/75290-1.png"
-            />
+            <Zoom>
+              <img
+                class="pic"
+                alt="lego set"
+                src="https://img.bricklink.com/ItemImage/SN/0/75290-1.png"
+              />
+            </Zoom>
           </li>
         </li>
         <li>
@@ -80,11 +98,13 @@ function App() {
         </li>
         <li>
           {" "}
-          <img
-            class="pic"
-            alt="lego set"
-            src="https://img.bricklink.com/ItemImage/SN/0/75253-1.png"
-          />
+          <Zoom>
+            <img
+              class="pic"
+              alt="lego set"
+              src="https://img.bricklink.com/ItemImage/SN/0/75253-1.png"
+            />
+          </Zoom>
         </li>
         <li>
           {" "}
@@ -99,11 +119,13 @@ function App() {
         </li>
         <li>
           {" "}
-          <img
-            class="pic"
-            alt="lego set"
-            src="https://img.bricklink.com/ItemImage/SN/0/75902-1.png"
-          />
+          <Zoom>
+            <img
+              class="pic"
+              alt="lego set"
+              src="https://img.bricklink.com/ItemImage/SN/0/75902-1.png"
+            />
+          </Zoom>
         </li>
         <li>
           {" "}
@@ -117,14 +139,19 @@ function App() {
           </a>{" "}
         </li>
         <li>
-          <img
-            class="pic"
-            alt="lego set"
-            src="https://img.bricklink.com/ItemImage/SN/0/75810-1.png"
-          />{" "}
+          <Zoom>
+            <img
+              class="pic"
+              alt="lego set"
+              src="https://img.bricklink.com/ItemImage/SN/0/75810-1.png"
+            />{" "}
+          </Zoom>
         </li>
       </ul>
-      <h2>Other cool things: Any Star Trek / Space / Paris decorations or knick knacks.</h2>
+      <h2>
+        Other cool things: Any Star Trek / Space / Paris decorations or knick
+        knacks.
+      </h2>
     </div>
   );
 }
