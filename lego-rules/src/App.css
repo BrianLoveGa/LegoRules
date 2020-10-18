@@ -1,0 +1,13 @@
+* {
+margin:1%;
+background-color: rgb(108, 194, 243);
+}
+
+.pic {
+  max-height: 200px;
+  width: auto;
+}
+
+ul{
+  list-style-type: none;
+}
