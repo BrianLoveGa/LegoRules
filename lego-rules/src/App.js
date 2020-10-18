@@ -40,6 +40,86 @@ function App() {
         <li></li>
       </ul>
       <h2>Wish-list:</h2>
+      <ul>
+        {" "}
+        Item number opens link to lego store page
+        <li>
+          {" "}
+          Star Wars Mos Eisley Cantina{" "}
+          <a
+            href="https://www.lego.com/en-us/product/mos-eisley-cantina-75290"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            # 75290
+          </a>{" "}
+          <li>
+            <img
+              class="pic"
+              alt="lego set"
+              src="https://img.bricklink.com/ItemImage/SN/0/75290-1.png"
+            />
+          </li>
+        </li>
+        <li>
+          {" "}
+          Star Wars Droid Commander{" "}
+          <a
+            href="https://www.lego.com/en-us/product/droid-commander-75253"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            # 75253
+          </a>{" "}
+        </li>
+        <li>
+          {" "}
+          <img
+            class="pic"
+            alt="lego set"
+            src="https://img.bricklink.com/ItemImage/SN/0/75253-1.png"
+          />
+        </li>
+        <li>
+          {" "}
+          Scooby Doo Mystery Machine{" "}
+          <a
+            href="https://www.lego.com/en-gb/product/the-mystery-machine-75902"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            # 75902
+          </a>{" "}
+        </li>
+        <li>
+          {" "}
+          <img
+            class="pic"
+            alt="lego set"
+            src="https://img.bricklink.com/ItemImage/SN/0/75902-1.png"
+          />
+        </li>
+        <li>
+          {" "}
+          Stranger Things Upside Down{" "}
+          <a
+            href="https://www.lego.com/en-gb/product/the-upside-down-75810"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            # 75810
+          </a>{" "}
+        </li>
+        <li>
+          <img
+            class="pic"
+            alt="lego set"
+            src="https://img.bricklink.com/ItemImage/SN/0/75810-1.png"
+          />{" "}
+        </li>
+        <li>Anything Space (NASA) or Pirates or Castles or Lord of the Rings or just generic bricks and plates sets or Batman / any super heros.</li>
+        <li>Can not go wrong with lego!</li>
+      </ul>
     </div>
   );
 }
