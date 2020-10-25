@@ -86,6 +86,25 @@ function App() {
           </li>
         </li>
         <li>
+          Sesame Street{" "}
+          <a
+            href="https://www.lego.com/en-us/product/123-sesame-street-21324"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            # 21324 *?*
+          </a>
+        </li>
+        <li>
+          <Zoom>
+            <img
+              class="pic"
+              alt="lego set"
+              src="https://nerdist.com/wp-content/uploads/2020/10/Sesame-Street-LEGO-Box.jpg"
+            />
+          </Zoom>
+        </li>
+        <li>
           {" "}
           Star Wars Droid Commander{" "}
           <a
@@ -103,6 +122,27 @@ function App() {
               class="pic"
               alt="lego set"
               src="https://img.bricklink.com/ItemImage/SN/0/75253-1.png"
+            />
+          </Zoom>
+        </li>
+        <li>
+          {" "}
+          Friends Central Perk{" "}
+          <a
+            href="https://www.lego.com/en-us/product/central-perk-21319"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            # 21319 **
+          </a>{" "}
+        </li>
+        <li>
+          {" "}
+          <Zoom>
+            <img
+              class="pic"
+              alt="lego set"
+              src="https://img.bricklink.com/ItemImage/SN/0/21319-1.png"
             />
           </Zoom>
         </li>
