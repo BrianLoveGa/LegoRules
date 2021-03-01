@@ -115,6 +115,16 @@ function App() {
               />
             </Zoom>
           </li>{" "}
+          <li>Camaro Race Car # 75891</li>
+          <li>
+            <Zoom>
+              <img
+                class="pic"
+                alt="lego set"
+                src="https://cdn.rebrickable.com/media/thumbs/sets/75891-1/21800.jpg/1000x800p.jpg?1610463319.384234"
+              />
+            </Zoom>
+          </li>
           <li> R2-D2 # 8009</li>
           <li>
             <Zoom>
