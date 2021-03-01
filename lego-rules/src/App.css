@@ -15,3 +15,11 @@ ul {
 .big {
   font-size: 2em;
 }
+
+.owned {
+  background-color: rgb(49, 174, 247);
+}
+
+.want {
+  background-color: rgb(162, 216, 247);
+}
