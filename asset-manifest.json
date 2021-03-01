@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LegoRules/static/css/main.ccbd6ad8.chunk.css",
-    "main.js": "/LegoRules/static/js/main.e0964acf.chunk.js",
-    "main.js.map": "/LegoRules/static/js/main.e0964acf.chunk.js.map",
+    "main.js": "/LegoRules/static/js/main.3823d3ac.chunk.js",
+    "main.js.map": "/LegoRules/static/js/main.3823d3ac.chunk.js.map",
     "runtime-main.js": "/LegoRules/static/js/runtime-main.bb7b4d7f.js",
     "runtime-main.js.map": "/LegoRules/static/js/runtime-main.bb7b4d7f.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/LegoRules/static/css/2.57ddf7ad.chunk.css",
     "static/js/2.cdd218a1.chunk.js": "/LegoRules/static/js/2.cdd218a1.chunk.js",
     "static/js/2.cdd218a1.chunk.js.map": "/LegoRules/static/js/2.cdd218a1.chunk.js.map",
     "index.html": "/LegoRules/index.html",
-    "precache-manifest.91640ee3b9b83573c4c5996a80328832.js": "/LegoRules/precache-manifest.91640ee3b9b83573c4c5996a80328832.js",
+    "precache-manifest.766709d1696d3c5c4a9d02eb12e6a8fb.js": "/LegoRules/precache-manifest.766709d1696d3c5c4a9d02eb12e6a8fb.js",
     "service-worker.js": "/LegoRules/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/LegoRules/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.ccbd6ad8.chunk.css.map": "/LegoRules/static/css/main.ccbd6ad8.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.57ddf7ad.chunk.css",
     "static/js/2.cdd218a1.chunk.js",
     "static/css/main.ccbd6ad8.chunk.css",
-    "static/js/main.e0964acf.chunk.js"
+    "static/js/main.3823d3ac.chunk.js"
   ]
 }
