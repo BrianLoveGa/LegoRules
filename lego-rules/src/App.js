@@ -188,13 +188,37 @@ function App() {
             Anything NASA, Pirates, Castles, Lord of the Rings, Technic cars or
             just generic bricks and plates sets or Batman / any super heros.
           </li>
-          <li className="big want">Can not go wrong with lego!</li>
+          <li className="big want">
+            You can not go wrong with any lego for me!
+          </li>
           <li className="want">&nbsp;</li>
           <li className="want">
             {" "}
             ** Item number opens link to lego store page **
           </li>
           <li className="want">&nbsp;</li>
+          <li className="want">
+            {" "}
+            International Space Station{" "}
+            <a
+              href="https://www.lego.com/en-us/product/international-space-station-21321"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="want pic"
+            >
+              {" "}
+              # 21321 **
+            </a>
+          </li>
+          <li className="want">
+            <Zoom>
+              <img
+                alt="lego set"
+                className="want pic"
+                src="https://cdn.rebrickable.com/media/thumbs/sets/21321-1/52139.jpg/1000x800p.jpg?1603031651.6852999"
+              />
+            </Zoom>
+          </li>
 
           <li className="want">
             Sesame Street{" "}
@@ -204,7 +228,7 @@ function App() {
               rel="noopener noreferrer"
               className="want"
             >
-              # 21324 *?*
+              # 21324 **
             </a>
           </li>
           <li className="want">
@@ -307,7 +331,8 @@ function App() {
       </div>
       <h2>
         Other cool things: Any Star Trek / Space / Paris decorations or knick
-        knacks.
+        knacks. Stuff from Archer, Disenchantment, Simpsons, Rick and Morty,
+        Futurama or, general nerdy stuff.
       </h2>
     </div>
   );
