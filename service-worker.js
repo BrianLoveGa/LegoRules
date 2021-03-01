@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LegoRules/precache-manifest.8e620d98ec4626f401ab677a262baa43.js"
+  "/LegoRules/precache-manifest.d281d363fcee108047dfc453382f83b3.js"
 );
 
 self.addEventListener('message', (event) => {
