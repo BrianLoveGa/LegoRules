@@ -29,6 +29,42 @@ function App() {
               <img class="pic" src={p} alt="Paris France Lego" />
             </Zoom>
           </li>
+          <li>Hagrid's Hut: Buckbeak's Rescue #75947</li>
+          <li>
+            <Zoom>
+              <img
+                class="pic"
+                src="https://cdn.rebrickable.com/media/thumbs/sets/75947-1/21504.jpg/1000x800p.jpg?1610478314.854744"
+                alt="Harry Potter Lego set"
+              />
+            </Zoom>
+          </li>
+          <li>Pirates of Barracuda Bay # 21322</li>
+          <li>
+            <Zoom>
+              <img
+                class="pic"
+                src="https://cdn.rebrickable.com/media/thumbs/sets/21322-1/56307.jpg/1000x800p.jpg?1617372605.627302"
+                alt="Pirates Lego"
+              />
+            </Zoom>
+          </li>
+          <li>Chocolate Box and Flower # 30411</li>
+          <li>
+            <Zoom>
+              <img
+                class="pic"
+                src="https://cdn.rebrickable.com/media/thumbs/sets/30411-1/56386.jpg/1000x800p.jpg?1617386375.9754918"
+                alt="Valentines Lego candy box and rose"
+              />
+            </Zoom>
+          </li>
+          <li>new year # 21044</li>
+          <li>
+            <Zoom>
+              <img class="pic" src={p} alt="Paris France Lego" />
+            </Zoom>
+          </li>
           <li>Duel on Starkiller # 75236</li>
           <li>
             <Zoom>
