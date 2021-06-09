@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3682133b35249a25c8183ec58d61e068",
+    "revision": "ce8a32ecf4f698cd436543532b1a8d1d",
     "url": "/LegoRules/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LegoRules/static/css/2.02500d8e.chunk.css"
   },
   {
-    "revision": "1746cba464258184564d",
+    "revision": "8bb97b8ac5afe5083c17",
     "url": "/LegoRules/static/css/main.ccbd6ad8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LegoRules/static/js/2.cdd218a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1746cba464258184564d",
-    "url": "/LegoRules/static/js/main.6d809b79.chunk.js"
+    "revision": "8bb97b8ac5afe5083c17",
+    "url": "/LegoRules/static/js/main.b18c0494.chunk.js"
   },
   {
     "revision": "48252d58f3708d568faf",
