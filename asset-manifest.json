@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/LegoRules/static/css/main.ccbd6ad8.chunk.css",
-    "main.js": "/LegoRules/static/js/main.cf222278.chunk.js",
-    "main.js.map": "/LegoRules/static/js/main.cf222278.chunk.js.map",
+    "main.js": "/LegoRules/static/js/main.df289111.chunk.js",
+    "main.js.map": "/LegoRules/static/js/main.df289111.chunk.js.map",
     "runtime-main.js": "/LegoRules/static/js/runtime-main.bb7b4d7f.js",
     "runtime-main.js.map": "/LegoRules/static/js/runtime-main.bb7b4d7f.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/LegoRules/static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.cdd218a1.chunk.js": "/LegoRules/static/js/2.cdd218a1.chunk.js",
-    "static/js/2.cdd218a1.chunk.js.map": "/LegoRules/static/js/2.cdd218a1.chunk.js.map",
+    "static/js/2.622f90a4.chunk.js": "/LegoRules/static/js/2.622f90a4.chunk.js",
+    "static/js/2.622f90a4.chunk.js.map": "/LegoRules/static/js/2.622f90a4.chunk.js.map",
     "index.html": "/LegoRules/index.html",
-    "precache-manifest.1178be376399c68a805dbd37c71f62b2.js": "/LegoRules/precache-manifest.1178be376399c68a805dbd37c71f62b2.js",
+    "precache-manifest.acf834df8827e20072505361dbb4f427.js": "/LegoRules/precache-manifest.acf834df8827e20072505361dbb4f427.js",
     "service-worker.js": "/LegoRules/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/LegoRules/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.ccbd6ad8.chunk.css.map": "/LegoRules/static/css/main.ccbd6ad8.chunk.css.map",
-    "static/js/2.cdd218a1.chunk.js.LICENSE.txt": "/LegoRules/static/js/2.cdd218a1.chunk.js.LICENSE.txt",
+    "static/js/2.622f90a4.chunk.js.LICENSE.txt": "/LegoRules/static/js/2.622f90a4.chunk.js.LICENSE.txt",
     "static/media/21044.jpg": "/LegoRules/static/media/21044.4a5406c3.jpg",
     "static/media/40407.jpeg": "/LegoRules/static/media/40407.f0f50f84.jpeg",
     "static/media/75236.jpeg": "/LegoRules/static/media/75236.a51d476a.jpeg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.bb7b4d7f.js",
     "static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.cdd218a1.chunk.js",
+    "static/js/2.622f90a4.chunk.js",
     "static/css/main.ccbd6ad8.chunk.css",
-    "static/js/main.cf222278.chunk.js"
+    "static/js/main.df289111.chunk.js"
   ]
 }
