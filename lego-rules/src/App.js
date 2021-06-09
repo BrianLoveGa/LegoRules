@@ -59,10 +59,27 @@ function App() {
               />
             </Zoom>
           </li>
-          <li>new year # 21044</li>
+        <li>Lucky Cat # 40436</li>
+        <li>have 2 of these ... just not at my house</li>
           <li>
             <Zoom>
-              <img class="pic" src={p} alt="Paris France Lego" />
+              <img
+                class="pic"
+                src="https://cdn.rebrickable.com/media/thumbs/sets/40436-1/18699.jpg/1000x800p.jpg?1610526072.177875"
+                alt="little cat lego figurine"
+              />
+              </Zoom>
+              </li>
+
+          <li>New Year of the ox # 40417</li>
+          <li>
+            <Zoom>
+              <img
+                class="pic"
+                src="https://cdn.rebrickable.com/media/thumbs/sets/40417-1/79789.jpg/1000x800p.jpg?1610954910.5861714"
+
+                alt="little oxen lego figure"
+              />
             </Zoom>
           </li>
           <li>Duel on Starkiller # 75236</li>
