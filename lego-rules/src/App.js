@@ -16,14 +16,14 @@ function App() {
       <h1>Brian Loveless Loves Lego!</h1>
 
       <img
-      className="minifig"
+        className="minifig"
         src="https://cdn.rebrickable.com/media/avatar/brianLoveless/resized/150/legome2.jpeg"
         alt="me as a custom Lego minifig"
       />
       <div></div>
 
       <a
-      className="yellow"
+        className="yellow"
         href="https://rebrickable.com/users/brianLoveless/profile/"
         target="_blank"
         rel="noopener noreferrer"
@@ -267,23 +267,19 @@ function App() {
         <h2 className="owned">END Owned Sets</h2>
       </div>
 
-      <br></br>
-      <hr></hr>
-      <h3 className="yellow">
-        {" "}
-        See some builds and more on my
-        <a
-          className="yellow"
-          href="https://imgur.com/user/brianloveless321bl"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          IMGUR account here .
-        </a>
-      </h3>
-      <br></br>
-      <hr></hr>
-      <div className="want">
+
+      
+      <a
+        className="yellow"
+        href="https://imgur.com/user/brianloveless321bl"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Some Lego pics are on my IMGUR account here .
+      </a>
+
+    
+      <div className="wish">
         <h2 className="want">Wish-list:</h2>
         <ul className="want">
           <li className="big want">

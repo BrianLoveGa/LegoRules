@@ -23,6 +23,11 @@ ul {
 .owned {
   background-color: rgb(49, 174, 247);
   margin-top:44px;
+  margin-bottom:74px;
+}
+
+.wish {
+  margin-top:44px;
 }
 
 .want {
@@ -33,5 +38,5 @@ ul {
   background-color: yellow;
   padding:20px;
   border-radius: 25px;
-  margin:10%;
+ 
 }
