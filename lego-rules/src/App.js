@@ -275,7 +275,7 @@ function App() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        Some Lego pics are on my IMGUR account here .
+        Some Lego on my IMGUR 
       </a>
 
     
