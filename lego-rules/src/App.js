@@ -250,22 +250,34 @@ function App() {
       </div>
       <br></br>
       <hr></hr>
+      <h3 className="yellow">
+        {" "}
+        See some builds and more on my
+        <a
+          className="yellow"
+          href="https://imgur.com/user/brianloveless321bl"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          IMGUR account here .
+        </a>
+      </h3>
       <br></br>
       <hr></hr>
       <div className="want">
         <h2 className="want">Wish-list:</h2>
         <ul className="want">
           <li className="big want">
-            Anything NASA, Pirates, Castles, Lord of the Rings, Technic cars or
-            just generic bricks and plates sets or Batman / any super heros.
+            Anything NASA, Pirates, Castles, Lord of the Rings, Technic sets, Cars or
+            just generic bricks and plates sets or Batman / any superheroes.
           </li>
           <li className="big want">
-            You can not go wrong with any lego for me!
+            You can not go wrong with any Lego for me!
           </li>
           <li className="want">&nbsp;</li>
           <li className="want">
             {" "}
-            ** Item number opens link to lego store page **
+            ** Item number opens link to Lego store page **
           </li>
           <li className="want">&nbsp;</li>
           <li className="want">
