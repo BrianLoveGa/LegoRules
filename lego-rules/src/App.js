@@ -14,6 +14,24 @@ function App() {
   return (
     <div className="App">
       <h1>Brian Loveless Loves Lego!</h1>
+
+      <img
+      className="minifig"
+        src="https://cdn.rebrickable.com/media/avatar/brianLoveless/resized/150/legome2.jpeg"
+        alt="me as a custom Lego minifig"
+      />
+      <div></div>
+
+      <a
+      className="yellow"
+        href="https://rebrickable.com/users/brianLoveless/profile/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        {" "}
+        rebrickable profile link here
+      </a>
+
       <div className="owned">
         <h2 className="owned">Begin Owned Sets:</h2>
         <ul className="owned">
@@ -248,6 +266,7 @@ function App() {
         </ul>
         <h2 className="owned">END Owned Sets</h2>
       </div>
+
       <br></br>
       <hr></hr>
       <h3 className="yellow">
@@ -268,8 +287,9 @@ function App() {
         <h2 className="want">Wish-list:</h2>
         <ul className="want">
           <li className="big want">
-            Anything NASA, Pirates, Castles, Lord of the Rings, Technic sets, Cars or
-            just generic bricks and plates sets or Batman / any superheroes.
+            Anything NASA, Pirates, Castles, Lord of the Rings, Technic sets,
+            Cars or just generic bricks and plates sets or Batman / any
+            superheroes.
           </li>
           <li className="big want">
             You can not go wrong with any Lego for me!
