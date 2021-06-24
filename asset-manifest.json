@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/LegoRules/static/css/main.bcd3d6b7.chunk.css",
-    "main.js": "/LegoRules/static/js/main.04bccb7c.chunk.js",
-    "main.js.map": "/LegoRules/static/js/main.04bccb7c.chunk.js.map",
+    "main.css": "/LegoRules/static/css/main.face4ab0.chunk.css",
+    "main.js": "/LegoRules/static/js/main.9fb97479.chunk.js",
+    "main.js.map": "/LegoRules/static/js/main.9fb97479.chunk.js.map",
     "runtime-main.js": "/LegoRules/static/js/runtime-main.bb7b4d7f.js",
     "runtime-main.js.map": "/LegoRules/static/js/runtime-main.bb7b4d7f.js.map",
     "static/css/2.02500d8e.chunk.css": "/LegoRules/static/css/2.02500d8e.chunk.css",
     "static/js/2.cdd218a1.chunk.js": "/LegoRules/static/js/2.cdd218a1.chunk.js",
     "static/js/2.cdd218a1.chunk.js.map": "/LegoRules/static/js/2.cdd218a1.chunk.js.map",
     "index.html": "/LegoRules/index.html",
-    "precache-manifest.44ece7fe6cee397ea8ec9dd3a6a46827.js": "/LegoRules/precache-manifest.44ece7fe6cee397ea8ec9dd3a6a46827.js",
+    "precache-manifest.d692bf6697c874037b689b482978da7d.js": "/LegoRules/precache-manifest.d692bf6697c874037b689b482978da7d.js",
     "service-worker.js": "/LegoRules/service-worker.js",
     "static/css/2.02500d8e.chunk.css.map": "/LegoRules/static/css/2.02500d8e.chunk.css.map",
-    "static/css/main.bcd3d6b7.chunk.css.map": "/LegoRules/static/css/main.bcd3d6b7.chunk.css.map",
+    "static/css/main.face4ab0.chunk.css.map": "/LegoRules/static/css/main.face4ab0.chunk.css.map",
     "static/js/2.cdd218a1.chunk.js.LICENSE.txt": "/LegoRules/static/js/2.cdd218a1.chunk.js.LICENSE.txt",
     "static/media/21044.jpg": "/LegoRules/static/media/21044.4a5406c3.jpg",
     "static/media/40407.jpeg": "/LegoRules/static/media/40407.f0f50f84.jpeg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.bb7b4d7f.js",
     "static/css/2.02500d8e.chunk.css",
     "static/js/2.cdd218a1.chunk.js",
-    "static/css/main.bcd3d6b7.chunk.css",
-    "static/js/main.04bccb7c.chunk.js"
+    "static/css/main.face4ab0.chunk.css",
+    "static/js/main.9fb97479.chunk.js"
   ]
 }
