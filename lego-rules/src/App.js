@@ -13,7 +13,11 @@ import ewok from "./pics/7956.jpg";
 function App() {
   return (
     <div className="App">
-      <h1>Brian Loveless Loves Lego!</h1>
+      <h1 className="middle">Lego!</h1>
+      <h2>
+        What do Brad Pitt, Terry Crews, Britney Spears, Matthew Perry, Anna
+        Kendrick and myself have in common?
+      </h2>
 
       <img
         className="minifig"
@@ -21,6 +25,8 @@ function App() {
         alt="me as a custom Lego minifig"
       />
       <div></div>
+      <h2>We all are AFOL's ! (adult fans of Lego)</h2>
+      <div className="space"></div>
 
       <a
         className="yellow"
@@ -31,6 +37,67 @@ function App() {
         {" "}
         rebrickable profile link here
       </a>
+
+      {/* <div className="gallery">
+        <div className="areaspin">
+          <span className="--i: 1">
+            <img
+              className="spin"
+              src="https://i.imgur.com/c2Vom1j.jpeg"
+              alt="ninjago lego set"
+            />
+          </span>
+          <span className="--i: 2">
+            <img
+              className="spin"
+              src="https://i.imgur.com/EhTa5kG.jpeg"
+              alt="Paris lego set"
+            />
+          </span>
+          <span className="--i: 3">
+            <img
+              className="spin"
+              src="https://i.imgur.com/4CL70Uf.jpeg"
+              alt="mini figures lego set"
+            />
+          </span>
+          <span className="--i: 4">
+            <img
+              className="spin"
+              src="https://i.imgur.com/bddc5GW.jpeg"
+              alt="Yoda lego set"
+            />
+          </span>
+          <span className="--i: 5">
+            <img
+              className="spin"
+              src="https://i.imgur.com/7Bk8DNk.jpeg"
+              alt="pirate ship lego set"
+            />
+          </span>
+          <span className="--i: 6">
+            <img
+              className="spin"
+              src="https://i.imgur.com/Dv0jnfc.jpeg"
+              alt="pirate lego set"
+            />
+          </span>
+          <span className="--i: 7">
+            <img
+              className="spin"
+              src="https://i.imgur.com/8wBPl9m.jpeg"
+              alt="lego set"
+            />
+          </span>
+          <span className="--i: 8">
+            <img
+              className="spin"
+              src="https://i.imgur.com/z6HAd3C.jpeg"
+              alt="lego set"
+            />
+          </span>
+        </div>{" "}
+      </div> */}
 
       <div className="owned">
         <h2 className="owned">Begin Owned Sets:</h2>
@@ -266,19 +333,18 @@ function App() {
         </ul>
         <h2 className="owned">END Owned Sets</h2>
       </div>
-
-
-      
+      <div className="space"></div>
+      <h2>Click the link below to see some of my builds on my Imgur account</h2>
+      <div className="space"></div>
       <a
         className="yellow"
         href="https://imgur.com/user/brianloveless321bl"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Some Lego on my IMGUR 
+        Lego builds on my IMGUR
       </a>
 
-    
       <div className="wish">
         <h2 className="want">Wish-list:</h2>
         <ul className="want">
@@ -428,6 +494,7 @@ function App() {
           </li>
         </ul>
       </div>
+      <div className="space"></div>
       <h2>
         Other cool things: Any Star Trek / Space / Paris decorations or knick
         knacks. Stuff from Archer, Disenchantment, Simpsons, Rick and Morty,
